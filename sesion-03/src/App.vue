@@ -6,6 +6,7 @@
   import TituloDinamico from './components/TituloDinamico.vue';
   import ListaTitulos from './components/ ListaTitulos.vue';
   import ParrafoFormato from './components/ParrafoFormato.vue';
+  import ImagenConTitulo from './components/ImagenConTitulo.vue';
 </script>
 
 <template>
@@ -17,6 +18,7 @@
   <TituloDinamico></TituloDinamico>
   <ListaTitulos></ListaTitulos>
   <ParrafoFormato></ParrafoFormato>
+  <ImagenConTitulo></ImagenConTitulo>
 </template>
 
 <style >
