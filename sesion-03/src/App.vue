@@ -4,6 +4,7 @@
   import LibroInfo from './components/LibroInfo.vue';
   import ImagenEstatica from './components/ImagenEstatica.vue';
   import TituloDinamico from './components/TituloDinamico.vue';
+  import ListaTitulos from './components/ ListaTitulos.vue';
 </script>
 
 <template>
@@ -13,6 +14,7 @@
   <LibroInfo></LibroInfo>
   <ImagenEstatica></ImagenEstatica>
   <TituloDinamico></TituloDinamico>
+  <ListaTitulos></ListaTitulos>
 </template>
 
 <style >
