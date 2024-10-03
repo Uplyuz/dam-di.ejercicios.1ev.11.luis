@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <p>{{ titulo }}</p>
+    <h1>{{ titulo }}</h1>
 </template>
 
 <style scoped>

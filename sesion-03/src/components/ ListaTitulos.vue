@@ -3,9 +3,9 @@
 </script>
 
 <template>
-   <p>{{ titulos[0] }}</p>
-   <p>{{ titulos[1]}}</p>
-   <p>{{ titulos[2]}}</p>
+   <h2>{{ titulos[0] }}</h2>
+   <h2>{{ titulos[1]}}</h2>
+   <h2>{{ titulos[2]}}</h2>
 </template>
 
 <style scoped>
