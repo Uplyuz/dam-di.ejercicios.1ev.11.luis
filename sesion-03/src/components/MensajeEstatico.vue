@@ -7,5 +7,7 @@
 </template>
 
 <style scoped>
-
+    p{
+        background-color: darkkhaki;
+    }
 </style>

@@ -11,5 +11,8 @@
 </template>
 
 <style scoped>
-
+    p{
+        font-size: x-large;
+        background-color: blueviolet;
+    }
 </style>

@@ -7,9 +7,11 @@
   import ListaTitulos from './components/ ListaTitulos.vue';
   import ParrafoFormato from './components/ParrafoFormato.vue';
   import ImagenConTitulo from './components/ImagenConTitulo.vue';
+  import CabeceraSesion from './components/CabeceraSesion.vue';
 </script>
 
 <template>
+  <CabeceraSesion></CabeceraSesion>
   <p>EJ02-AP01: Aplicacion inicializada</p>
   <MensajeEstatico></MensajeEstatico>
   <ListaEstatica></ListaEstatica>

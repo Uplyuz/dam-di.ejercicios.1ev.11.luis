@@ -7,5 +7,7 @@
 </template>
 
 <style scoped>
- 
+    h1{
+        background-color: brown;
+    }
 </style>

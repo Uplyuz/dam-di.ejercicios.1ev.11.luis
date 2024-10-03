@@ -9,5 +9,7 @@
 </template>
 
 <style scoped>
-
+    h2{
+        background-color: bisque;
+    }
 </style>

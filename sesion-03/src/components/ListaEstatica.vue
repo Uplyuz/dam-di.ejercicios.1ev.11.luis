@@ -11,5 +11,7 @@
 </template>
 
 <style scoped>
-
+    ul{
+        background-color: crimson;
+    }
 </style>
