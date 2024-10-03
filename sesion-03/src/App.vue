@@ -2,6 +2,7 @@
   import MensajeEstatico from './components/MensajeEstatico.vue';
   import ListaEstatica from './components/ListaEstatica.vue';
   import LibroInfo from './components/LibroInfo.vue';
+  import ImagenEstatica from './components/ImagenEstatica.vue';
 </script>
 
 <template>
@@ -9,6 +10,7 @@
   <MensajeEstatico></MensajeEstatico>
   <ListaEstatica></ListaEstatica>
   <LibroInfo></LibroInfo>
+  <ImagenEstatica></ImagenEstatica>
 </template>
 
 <style >
