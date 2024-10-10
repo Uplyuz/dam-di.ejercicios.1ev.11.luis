@@ -27,7 +27,7 @@
     datos.dia = 15;
     datos.mes = 12;
     datos.anio = 2024;
-    datos.contador=1;
+    datos.contador++;
    };
 
    onBeforeMount(() => {
